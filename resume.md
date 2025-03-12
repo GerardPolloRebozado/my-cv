@@ -1,4 +1,4 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="gerard.jpg" />
+<img style="float:right;border-radius:50%;width:100px;padding:6px" src="gerard.jpg" />
 
 <span style="float:right;padding:6px">
   gerarddupreperalta@gmail.com<br> mobile: +34 672494459 <br> Premia de Mar, Barcelona
