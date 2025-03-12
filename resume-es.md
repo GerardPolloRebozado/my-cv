@@ -1,7 +1,7 @@
 <img style="float:right;border-radius:50%;width:100px;padding:6px" src="gerard.jpg" />
 
 <span style="float:right;padding:6px">
-  gerarddupreperalta@gmail.com<br> Telefono: +34 672494459 <br> Premia de Mar, Barcelona
+  gerarddupreperalta@gmail.com<br> Telefono: +34 672494459 <br> Premia de Mar, Barcelona <br> [Linkedin](https://www.linkedin.com/in/gerard-du-pre/) <br> [Github](https://github.com/GerardPolloRebozado)
 </span>
 
 # Desarrollador de Software
