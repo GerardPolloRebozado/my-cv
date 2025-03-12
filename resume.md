@@ -1,48 +1,71 @@
-<img style="float:right;border-radius:50%;width:70px;padding:6px" src="avatar-man.jpg" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="gerard.jpg" />
 
-<span style="float:right;padding:6px"> 
-  someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Chinese
+<span style="float:right;padding:6px">
+  gerarddupreperalta@gmail.com<br> mobile: +34 672494459 <br> Premia de Mar, Barcelona
 </span>
 
-# Casualwriter  
+# Software Developer
 
-## Executive Summary
+## Skills
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+-   Proficient in HTML, CSS, JavaScript, TypeScript, and C
+-   Experience with PHP, Rust, and Java
+-   SQL and NoSQL databases
+-   App containerization with Docker
+-   CI/CD with GitHub Actions and Dockploy
+-   Next.js and React
+-   Teamwork
+-   Communication and presentation skills
 
-## Working Experience
+## Work Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+### WordPress Developer (Jul 2023 - Dec 2023)
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+Internship at Indian Webs
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
+-   Developed and customized WordPress websites for clients
+-   Contributed to the development of the Chiari Institute website
+-   Interacted with clients to gather requirements and provide technical support
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+### Apple Repair Technician (Nov 2021 - Sep 2022)
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+Internship at Intecat
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
+-   Diagnosed and repaired Apple devices, including iPhones, iPads, and MacBooks
+-   Assisted customers with troubleshooting and technical inquiries
+-   Maintained and updated repair logs to track device issues and solutions
 
-## Projects: 
+## Projects
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+-   [Social to Mealie](https://github.com/GerardPolloRebozado/social-to-mealie) - Automated the import of social media video recipes into Mealie, a self-hosted recipe manager.
+    **Tech Stack:** Next.js, ShadCN UI, OpenAI API (ChatGPT)
+-   [Anytrack](https://github.com/GerardPolloRebozado/anytrack) - A media tracking platform to log watched movies and shows, track upcoming releases, and access detailed information.
+    **Tech Stack:** Next.js, React, TailwindCSS, Express, Prisma, TMDb API, IGDB API, NX, ShadCN UI
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+### Bachelor's + Master's in Software Development (2024-2029) - Epitech
 
-## Misc. Information
+-   Advanced programming in C
+-   Strengthened public speaking and team collaboration skills
+-   Developed a mobile app for the school using React Native
+-   Achieved the highest GPA in the cohort
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
-* Availability: 1 month's notice
+### Higher Degree in Web Application Development (2022-2024) - La Salle Gracia
+
+-   Built web applications using JavaScript, HTML, CSS, and PHP
+-   Developed terminal applications using Java
+-   Created a multiplayer quiz game for web and mobile platforms
+-   Implemented real-time communication with WebSockets
+
+### Intermediate Degree in Network Systems Administration (2020-2022) - Salesians de Sarrià
+
+-   Gained hands-on experience with Linux server administration
+-   Configured and managed Windows Server services, including Active Directory and SAMBA
+-   Built and maintained WordPress websites for various projects
+
+## Additional Information
+
+-   **Languages:** Spanish (native), Catalan (native), English (proficient)
+-   **Hobbies & Interests:** Passionate about skiing and food
+-   **Personal Traits:** Detail-oriented, problem-solver, and always eager to learn
