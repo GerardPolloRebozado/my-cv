@@ -1,7 +1,8 @@
 <img style="float:right;border-radius:50%;width:100px;padding:6px" src="gerard.jpg" />
 
 <span style="float:right;padding:6px">
-  gerarddupreperalta@gmail.com<br> Telefono: +34 672494459 <br> Premia de Mar, Barcelona <br> [Linkedin](https://www.linkedin.com/in/gerard-du-pre/) <br> [Github](https://github.com/GerardPolloRebozado)
+  gerarddupreperalta@gmail.com<br> Telefono: +34 672494459 <br> Premia de Mar, Barcelona <br> <a href="https://www.linkedin.com/in/gerard-du-pre" style="color:black;text-decoration:none;">Linkedin</a> <br>
+  <a href="https://github.com/GerardPolloRebozado" style="color:black;text-decoration:none;">Github</a>
 </span>
 
 # Desarrollador de Software
@@ -37,9 +38,9 @@
 
 ## Proyectos
 
--   [**Social to Mealie**](https://github.com/GerardPolloRebozado/social-to-mealie) - Automatización de la importación de recetas en video desde redes sociales a Mealie, un gestor de recetas auto hospedado.
+-   <a href="https://github.com/GerardPolloRebozado/social-to-mealie" style="color:black;text-decoration:none;">**Social to Mealie**</a> - Automatización de la importación de recetas en video desde redes sociales a Mealie, un gestor de recetas auto hospedado.
     **Tecnologías:** Next.js, ShadCN UI, OpenAI API (ChatGPT)
--   [**Anytrack**](https://github.com/GerardPolloRebozado/anytrack) - Plataforma de seguimiento de medios para registrar películas y series vistas, realizar un seguimiento de próximos estrenos y acceder a información detallada.
+-   <a href="https://github.com/GerardPolloRebozado/anytrack" style="color:black;text-decoration:none;">**Anytrack**</a> - Plataforma de seguimiento de medios para registrar películas y series vistas, realizar un seguimiento de próximos estrenos y acceder a información detallada.
     **Tecnologías:** Next.js, React, TailwindCSS, Express, Prisma, TMDb API, IGDB API, NX, ShadCN UI
 
 ## Educación y Certificaciones
