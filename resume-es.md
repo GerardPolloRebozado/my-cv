@@ -10,7 +10,7 @@
 ## Habilidades
 
 -   Dominio de HTML, CSS, JavaScript, TypeScript y C
--   Experiencia con PHP, Rust y Java
+-   Conocimientos de PHP, Rust y Java
 -   Bases de datos SQL y NoSQL
 -   Contenerización de aplicaciones con Docker
 -   CI/CD con GitHub Actions y Dockploy
@@ -32,13 +32,12 @@
 
 **Prácticas en Intecat**
 
--   Diagnostiqué y reparé dispositivos Apple, incluyendo iPhones, iPads y MacBooks
--   Asistí a clientes con consultas técnicas y solución de problemas
+-   Diagnostiqué, reparé dispositivos y assistí a clientes con consultas tecnicas
 -   Mantuve y actualicé registros de reparación para hacer seguimiento a los dispositivos
 
 ## Proyectos
 
--   <a href="https://github.com/GerardPolloRebozado/social-to-mealie" style="color:black;text-decoration:none;">**Social to Mealie**</a> - Automatización de la importación de recetas en video desde redes sociales a Mealie, un gestor de recetas auto hospedado.
+-   <a href="https://github.com/GerardPolloRebozado/social-to-mealie" style="color:black;text-decoration:none;">**Social to Mealie**</a> - Automatización de la importación de recetas en video desde redes sociales a Mealie utilizando IA, un gestor de recetas auto hospedado.
     **Tecnologías:** Next.js, ShadCN UI, OpenAI API (ChatGPT)
 -   <a href="https://github.com/GerardPolloRebozado/anytrack" style="color:black;text-decoration:none;">**Anytrack**</a> - Plataforma de seguimiento de medios para registrar películas y series vistas, realizar un seguimiento de próximos estrenos y acceder a información detallada.
     **Tecnologías:** Next.js, React, TailwindCSS, Express, Prisma, TMDb API, IGDB API, NX, ShadCN UI
@@ -50,7 +49,7 @@
 -   Programación avanzada en C
 -   Desarrollo de habilidades en oratoria y colaboración en equipo
 -   Creación de una aplicación móvil para la escuela con React Native
--   Logro de la calificación más alta de la cohorte
+-   Mantengo la nota mas alta de mi promocion
 
 ### **Grado Superior en Desarrollo de Aplicaciones Web (2022-2024) - La Salle Gracia**
 
