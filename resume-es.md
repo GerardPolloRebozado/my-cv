@@ -47,9 +47,8 @@
 ### **Grado + Máster en Desarrollo de Software (2024-2029) - Epitech**
 
 -   Programación avanzada en C
--   Desarrollo de habilidades en oratoria y colaboración en equipo
--   Creación de una aplicación móvil para la escuela con React Native
--   Mantengo la nota mas alta de mi promocion
+-   Desarrollo de habilidades de presentacion y colaboración en equipo
+-   Creación de una aplicación móvil para la universidad con React Native
 
 ### **Grado Superior en Desarrollo de Aplicaciones Web (2022-2024) - La Salle Gracia**
 
